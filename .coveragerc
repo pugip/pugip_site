@@ -1,0 +1,3 @@
+[run]
+source = pugip_site
+omit = pugip_site/test*
