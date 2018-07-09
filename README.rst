@@ -31,3 +31,18 @@ Getting Started
 - Run your project.
 
     env/bin/pserve development.ini
+
+PUG-IP TODO
+-----------
+
+- UX Design
+- Authentication/Authorization
+- Resources page: Can be static, but needs a management portal.
+- Project Ideas: Can be static, but needs a management portal.
+- Meeting management
+- Sign up page
+- contact page
+- Job postings
+- Code Sharing: Ambitious
+- Calendar: tied to meeting management
+- Forum 
